@@ -1,0 +1,2 @@
+class StaksController < ApplicationController
+end
